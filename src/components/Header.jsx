@@ -6,7 +6,7 @@ export default function Header() {
         <div className='flex justify-between items-center max-w-6xl mx-auto p-3'> 
             <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
                 <span className='text-slate-500'>Heaven</span>
-                <span className='text-slate-700'>Hills-mine</span>
+                <span className='text-slate-700'>Hills</span>
             </h1>
 
             <form className='bg-slate-100 p-3 rounded-lg flex items-center'>
@@ -16,7 +16,6 @@ export default function Header() {
                     className='bg-transparent focus:outline-none'
                 />
                 <FaSearch className='text-slate-600'/>
-                <h1>Hello</h1>
             </form>
         </div>
     </header>
