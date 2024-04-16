@@ -16,6 +16,7 @@ export default function Header() {
                     className='bg-transparent focus:outline-none'
                 />
                 <FaSearch className='text-slate-600'/>
+                <h1>Hello</h1>
             </form>
         </div>
     </header>
